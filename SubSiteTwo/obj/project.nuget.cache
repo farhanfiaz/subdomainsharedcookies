@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "jWb9jMak0k39qVJMRfEYA8FhQRHlfTCbpgqMQWTEP1ifaIAxGMYrpJBEtNSaCYp1UMWnDKrmiLsPjgJt4E8dzQ==",
+  "success": true,
+  "projectFilePath": "D:\\Farhan Fiaz\\Personal Project\\SharedCookies\\SubSiteTwo\\SubSiteTwo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.0\\microsoft.aspnetcore.authorization.6.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.metadata\\6.0.0\\microsoft.aspnetcore.metadata.6.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

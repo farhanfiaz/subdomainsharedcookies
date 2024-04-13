@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<key id="80732141-ec8f-4b80-af9c-c4d2d1ff8901" version="1">
+	<creationDate>2015-03-19T23:32:02.3949887Z</creationDate>
+	<activationDate>2015-03-19T23:32:02.3839429Z</activationDate>
+	<expirationDate>2015-06-17T23:32:02.3839429Z</expirationDate>
+	<descriptor deserializerType="{deserializerType}">
+		<descriptor>
+			<encryption algorithm="AES_256_CBC" />
+			<validation algorithm="HMACSHA256" />
+			<enc:encryptedSecret decryptorType="{decryptorType}" xmlns:enc="...">
+				<encryptedKey>
+					<!-- This key is encrypted with Windows DPAPI. -->
+					<value>AQAAANCM...8/zeP8lcwAg==</value>
+				</encryptedKey>
+			</enc:encryptedSecret>
+		</descriptor>
+	</descriptor>
+</key>
